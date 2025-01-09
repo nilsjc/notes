@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "+7wMrKQkApBwmv28PsOqRBJjUiF/SohlnIDUMW18xjUg7KK087fAYxPYBLBCHlT9U260HvUkf407StOJ6MYh3w==",
+  "dgSpecHash": "r3XwEYPsUCGjq/zi+OYQxyncj0KVzYkCxaYNDcuBjYRxJXU7O0dVRHrCbeW9itXCzDZ+R+X2zuh/iVqE8/RGbA==",
   "success": true,
   "projectFilePath": "C:\\c#projects\\notes\\Server\\Server.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\NilsEd\\.nuget\\packages\\rabbitmq.client\\7.0.0\\rabbitmq.client.7.0.0.nupkg.sha512",
+    "C:\\Users\\NilsEd\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",
+    "C:\\Users\\NilsEd\\.nuget\\packages\\system.threading.ratelimiting\\8.0.0\\system.threading.ratelimiting.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }
