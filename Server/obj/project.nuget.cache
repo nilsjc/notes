@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r3XwEYPsUCGjq/zi+OYQxyncj0KVzYkCxaYNDcuBjYRxJXU7O0dVRHrCbeW9itXCzDZ+R+X2zuh/iVqE8/RGbA==",
+  "dgSpecHash": "Fpl4fwStI/a19NJ50YSfbS9vivHmFuP4eZmf7NYHKNOmn5SI2KveKv2bPRga2+ibo0tr/ylUylqydeGYFExh7g==",
   "success": true,
-  "projectFilePath": "C:\\c#projects\\notes\\Server\\Server.csproj",
+  "projectFilePath": "c:\\c#projects\\notes\\Server\\Server.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\NilsEd\\.nuget\\packages\\rabbitmq.client\\7.0.0\\rabbitmq.client.7.0.0.nupkg.sha512",
     "C:\\Users\\NilsEd\\.nuget\\packages\\system.io.pipelines\\8.0.0\\system.io.pipelines.8.0.0.nupkg.sha512",

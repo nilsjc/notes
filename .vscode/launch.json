@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "C#: Api Debug",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Api\\Api.csproj"
+        },
+        {
+            "name": "C#: Server",
+            "type": "dotnet",
+            "request": "launch",
+            "projectPath": "${workspaceFolder}\\Server\\Server.csproj",
+            "launchConfigurationId": "TargetFramework=;Server"
+        }
+    ]
+}

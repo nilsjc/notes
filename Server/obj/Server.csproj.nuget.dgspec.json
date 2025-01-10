@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\c#projects\\notes\\Server\\Server.csproj": {}
+    "c:\\c#projects\\notes\\Server\\Server.csproj": {}
   },
   "projects": {
-    "C:\\c#projects\\notes\\Server\\Server.csproj": {
+    "c:\\c#projects\\notes\\Server\\Server.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\c#projects\\notes\\Server\\Server.csproj",
+        "projectUniqueName": "c:\\c#projects\\notes\\Server\\Server.csproj",
         "projectName": "Server",
-        "projectPath": "C:\\c#projects\\notes\\Server\\Server.csproj",
+        "projectPath": "c:\\c#projects\\notes\\Server\\Server.csproj",
         "packagesPath": "C:\\Users\\NilsEd\\.nuget\\packages\\",
-        "outputPath": "C:\\c#projects\\notes\\Server\\obj\\",
+        "outputPath": "c:\\c#projects\\notes\\Server\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\NilsEd\\AppData\\Roaming\\NuGet\\NuGet.Config"
